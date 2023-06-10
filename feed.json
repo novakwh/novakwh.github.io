@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "K. W. Holland",
-  "home_page_url": "https://novakwh.github.io/web2023/",
-  "feed_url": "https://novakwh.github.io/web2023/feed.json",
+  "home_page_url": "https://novakwh.github.io/web2023",
+  "feed_url": "https://novakwh.github.io/web2023feed.json",
   "description": "guy who writes and stuff",
-  "favicon": "https://novakwh.github.io/web2023//assets/favicon.ico",
+  "favicon": "https://novakwh.github.io/web2023/assets/favicon.ico",
   "expired": false,
   "author": {
     "name": "K. W. Holland",
-    "url": "https://novakwh.github.io/web2023/"
+    "url": "https://novakwh.github.io/web2023"
   },
   "items": [
     

@@ -3,14 +3,14 @@
     
     <title>K. W. Holland</title>
     <description>guy who writes and stuff</description>
-    <link>https://novakwh.github.io/web2023/</link>
+    <link>https://novakwh.github.io/web2023</link>
     
     <language>en</language>
     <copyright>Copyright 2023, Calvin Tran</copyright>
     <lastBuildDate>Sat, 10 Jun 2023 10:55:19 -0400</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="https://novakwh.github.io/web2023//atom.xml" rel="self" type="application/atom+xml"/>
+    <atom:link href="https://novakwh.github.io/web2023/atom.xml" rel="self" type="application/atom+xml"/>
     
     
   </channel>
